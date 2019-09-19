@@ -14,6 +14,12 @@ Simple Marvel API search.
 
 * JavaScript, React.js, Sass
 
+## Installation
+
+* Download project on your computer.
+* Run index.html in your browser.
+* Enjoy exploring MARVEL's Universe :)
+
 ## Author
 
 * Agnieszka Drewniok
